@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/10/17 16:27:08.000.559,=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/10/17 16:27:08.000.191,=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/10/17 16:41:37.000.765,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\USER\Documents\Embarcadero\Studio\Projects\HW3_錢玟卉_309706024\HW3_錢玟卉_309706024.h</Transaction>
+    <Transaction>2020/10/17 16:41:37.000.765,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\USER\Documents\Embarcadero\Studio\Projects\HW3_錢玟卉_309706024\HW3_錢玟卉_309706024.cpp</Transaction>
+    <Transaction>2020/10/17 16:41:37.000.765,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\USER\Documents\Embarcadero\Studio\Projects\HW3_錢玟卉_309706024\HW3_錢玟卉_309706024.dfm</Transaction>
+    <Transaction>2020/10/17 16:41:50.000.395,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\USER\Documents\Embarcadero\Studio\Projects\HW3_錢玟卉_309706024\HW3_錢玟卉_magicsquare.h</Transaction>
+    <Transaction>2020/10/17 16:42:02.000.197,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\USER\Documents\Embarcadero\Studio\Projects\HW3_錢玟卉_309706024\HW3_錢玟卉.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
